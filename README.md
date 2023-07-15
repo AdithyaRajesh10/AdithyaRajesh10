@@ -1,4 +1,4 @@
-<img src="./Documents/images/LinkedIn cover - 1.png" height="150px" width="800px">
+<img src="/home/ammoos/Documents/images/LinkedIn cover - 1.png" height="150px" width="800px">
 
 ### Hi there 👋
 Embracing boundless curiosity
